@@ -6,7 +6,6 @@ using System.Collections.Generic;
 using System.IO;
 
 using System.Text.Json.Serialization;
-
 namespace DivorseManagementSystem.Controllers
 {
     public class HomeController : Controller
