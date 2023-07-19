@@ -1,0 +1,27 @@
+﻿<h3>welcome u are sucssesful registered</h3>
+
+@{
+    var data = ViewBag.c;
+}
+@{
+    <ol>
+        @foreach (Customer customer in data)
+        {
+            <li>@customer.FirstName</li>
+        }
+    </ol>
+}
+
+@{
+    var data1 = ViewBag.v;
+}
+@{
+    <ol>
+        @foreach (Customer customer in data1)
+        {
+            <li>@customer</li>
+        }
+    </ol>
+}
+
+        

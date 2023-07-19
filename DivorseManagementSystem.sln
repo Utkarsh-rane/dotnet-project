@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivorseManagementSystem", "DivorseManagementSystem\DivorseManagementSystem.csproj", "{EE37969B-30DF-42A3-8778-B6084593AA72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE37969B-30DF-42A3-8778-B6084593AA72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE37969B-30DF-42A3-8778-B6084593AA72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE37969B-30DF-42A3-8778-B6084593AA72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE37969B-30DF-42A3-8778-B6084593AA72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98B21816-E006-4AFC-B34D-40E71CE9D7F1}
+	EndGlobalSection
+EndGlobal
